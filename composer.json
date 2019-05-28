@@ -1,0 +1,12 @@
+{
+    "name": "janeso/errors",
+    "require": {
+        "kreait/firebase-php": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Janes Oosthuizen",
+            "email": "janes@janes.co.za"
+        }
+    ]
+}
